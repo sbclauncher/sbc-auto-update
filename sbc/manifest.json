@@ -10,7 +10,6 @@
     "minecraft/options.txt",
     "minecraft/realms_persistence.json",
     "minecraft/servers.dat",
-    "minecraft/servers.dat_old",
     "minecraft/config"
   ]
 }
