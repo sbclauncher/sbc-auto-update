@@ -6,7 +6,7 @@
     "instance.cfg",
     "mmc-pack.json",
     "minecraft/options.txt",
-    "minecraft/mods",
+    "minecraft/mods/test.txt",
     "minecraft/icon.png",
     "minecraft/realms_persistence.json",
     "minecraft/servers.dat"
