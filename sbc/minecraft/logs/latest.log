@@ -1,0 +1,41 @@
+[19Dec2025 00:23:15.583] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, By0ne, --version, 1.21.10, --gameDir, C:/Users/eugen/AppData/Roaming/PrismLauncher/instances/SBC_Launcher_Test_Launcher/minecraft, --assetsDir, C:/Users/eugen/AppData/Roaming/PrismLauncher/assets, --assetIndex, 27, --uuid, 5a1bd4631abd4894bbd67aa4865bb664, --accessToken, **********, --userType, msa, --versionType, release, --launchTarget, forge_client, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 60.1.0, --fml.mcVersion, 1.21.10, --width, 854, --height, 480]
+[19Dec2025 00:23:15.586] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Microsoft OpenJDK 64-Bit Server VM 21.0.7+6-LTS
+[19Dec2025 00:23:15.586] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.2.4 starting: java version 21.0.7 by Microsoft; OS Windows 11 arch amd64 version 10.0
+[19Dec2025 00:23:15.678] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[19Dec2025 00:23:15.793] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[19Dec2025 00:23:15.870] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[19Dec2025 00:23:15.999] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=jar:file:///C:/Users/eugen/AppData/Roaming/PrismLauncher/libraries/org/spongepowered/mixin/0.8.7/mixin-0.8.7.jar!/ Service=ModLauncher Env=CLIENT
+[19Dec2025 00:23:16.202] [EarlyDisplay/INFO] [EARLYDISPLAY/]: GL info: Intel(R) Iris(R) Xe Graphics GL version 4.6.0 - Build 27.20.100.9664, Intel
+[19Dec2025 00:23:16.517] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19Dec2025 00:23:16.727] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forge_client' with arguments [--version, 1.21.10, --gameDir, C:\Users\eugen\AppData\Roaming\PrismLauncher\instances\SBC_Launcher_Test_Launcher\minecraft, --assetsDir, C:\Users\eugen\AppData\Roaming\PrismLauncher\assets, --uuid, 5a1bd4631abd4894bbd67aa4865bb664, --username, By0ne, --assetIndex, 27, --accessToken, **********, --userType, msa, --versionType, release, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 60.1.0, --fml.mcVersion, 1.21.10, --width, 854, --height, 480]
+[19Dec2025 00:23:18.143] [Datafixer Bootstrap/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 278 Datafixer optimizations took 498 milliseconds
+[19Dec2025 00:23:24.806] [main/INFO] [net.minecraft.client.main.Main/]: Completely ignored arguments: [--userType, msa, --fml.forgeGroup, net.minecraftforge, --fml.forgeVersion, 60.1.0, --fml.mcVersion, 1.21.10]
+[19Dec2025 00:23:25.074] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19Dec2025 00:23:25.131] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: By0ne
+[19Dec2025 00:23:25.290] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.3+5
+[19Dec2025 00:23:25.511] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Using optional rendering extensions: GL_ARB_buffer_storage, GL_KHR_debug, GL_ARB_vertex_attrib_binding, GL_ARB_direct_state_access
+[19Dec2025 00:23:25.703] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 60.1.0, for MC 1.21.10 with MCP 20251007.101210
+[19Dec2025 00:23:25.705] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v60.1.0 Initialized
+[19Dec2025 00:23:25.723] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Opening jdk.naming.dns/com.sun.jndi.dns to java.naming
+[19Dec2025 00:23:26.586] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[19Dec2025 00:23:26.889] [Worker-Main-6/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-16.0.03.hex, loading
+[19Dec2025 00:23:26.891] [Worker-Main-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_pua-16.0.03.hex, loading
+[19Dec2025 00:23:27.055] [Worker-Main-3/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_jp_patch-16.0.03.hex, loading
+[19Dec2025 00:23:27.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19Dec2025 00:23:27.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 60.1.0 Target: null
+[19Dec2025 00:23:30.194] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device OpenAL Soft on Speakers (Realtek(R) Audio)
+[19Dec2025 00:23:30.196] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[19Dec2025 00:23:30.196] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[19Dec2025 00:23:30.208] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x0 minecraft:textures/atlas/decorated_pot.png-atlas
+[19Dec2025 00:23:30.210] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x0 minecraft:textures/atlas/armor_trims.png-atlas
+[19Dec2025 00:23:30.231] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[19Dec2025 00:23:30.234] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/shield_patterns.png-atlas
+[19Dec2025 00:23:30.237] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x4 minecraft:textures/atlas/blocks.png-atlas
+[19Dec2025 00:23:30.316] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/chest.png-atlas
+[19Dec2025 00:23:30.318] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x0 minecraft:textures/atlas/banner_patterns.png-atlas
+[19Dec2025 00:23:30.321] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/beds.png-atlas
+[19Dec2025 00:23:30.322] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[19Dec2025 00:23:30.348] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[19Dec2025 00:23:30.350] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/signs.png-atlas
+[19Dec2025 00:23:30.352] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/shulker_boxes.png-atlas
+[19Dec2025 00:23:37.854] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
