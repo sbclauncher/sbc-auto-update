@@ -1,0 +1,16 @@
+{
+  "name": "SBC",
+  "version": "1.0.0",
+  "instanceFolder": "SBC",
+  "files": [
+    "instance.cfg",
+    "mmc-pack.json",
+    "minecraft/mods",
+    "minecraft/icon.png",
+    "minecraft/options.txt",
+    "minecraft/realms_persistence.json",
+    "minecraft/servers.dat",
+    "minecraft/servers.dat_old",
+    "minecraft/config"
+  ]
+}
