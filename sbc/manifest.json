@@ -1,15 +1,14 @@
 {
-  "name": "SBC",
-  "version": "1.0.0",
-  "instanceFolder": "SBC",
+  "instanceName": "SBC",
+  "prismDir": "PrismLauncher",
+  "basePath": "sbc/",
   "files": [
     "instance.cfg",
     "mmc-pack.json",
+    "minecraft/options.txt",
     "minecraft/mods",
     "minecraft/icon.png",
-    "minecraft/options.txt",
     "minecraft/realms_persistence.json",
-    "minecraft/servers.dat",
-    "minecraft/config"
+    "minecraft/servers.dat"
   ]
 }
